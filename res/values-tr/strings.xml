@@ -2,12 +2,12 @@
 
     <string name="app_notenabled">XPrivacy, Xposed yükleyicisinden etkinleştirilmedi.</string>
     <string name="app_wrongandroid">Sadece Android 4.0 ve üstünde kullanılabilir.</string>
-    <string name="app_incompatible" formatted="false">XPrivacy is incompatible with %s</string>
+    <string name="app_incompatible" formatted="false">XPrivacy %s ile uyumsuz</string>
     <string name="app_version" formatted="false">XPrivacy versiyon: %s (%d)</string>
     <string name="app_description">The ultimate privacy manager</string>
     <string name="app_copyright">Telif hakkı \u00A9 2013–2015, M. Bokhorst (M66B)</string>
     <string name="app_compatibility">Running in compatibility mode</string>
-    <string name="app_licensed">Licensed, thanks for your support!</string>
+    <string name="app_licensed">Lisanlandı, desteğiniz için teşekkürler!</string>
     <string name="menu_usage">Kullanım</string>
     <string name="menu_refresh">Yenile</string>
     <string name="menu_settings">Ayarlar</string>
@@ -21,11 +21,11 @@
     <string name="menu_pro">Pro versiyon</string>
     <string name="menu_about">Hakkında</string>
     <string name="menu_help">Yardım</string>
-    <string name="menu_select_all">Select all</string>
-    <string name="menu_sort">Sort</string>
-    <string name="menu_filter">Filter</string>
+    <string name="menu_select_all">Hepsini seç</string>
+    <string name="menu_sort">Tür</string>
+    <string name="menu_filter">Filtre</string>
     <string name="menu_all">Tümü</string>
-    <string name="menu_toggle">Toggle restrictions</string>
+    <string name="menu_toggle">Geçiş kısıtlamalar</string>
     <string name="menu_clear_all">Clear all</string>
     <string name="menu_clear_usage">Clear</string>
     <string name="menu_clear_db">Clear all data</string>
